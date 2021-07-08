@@ -1,0 +1,19 @@
+{
+  "name": "webcamapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hide-on-scroll": "^1.1.4",
+    "react-scripts": "0.9.5",
+    "react-webcam": "^5.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
